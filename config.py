@@ -1,1 +1,1 @@
-TOKEN = "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"
+TOKEN = "Token OpenAI"
